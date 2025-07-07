@@ -9,7 +9,7 @@
   "dependencies": {
     "@wix/ecom": "^1.0.1234",
     "@wix/sdk": "^1.15.24",
-    "@wix/stores": "^1.0.484"
+    "@wix/stores": "https://cdn.dev.wixpress.com/@wix/stores/57ebf4ed07331fc2327a8fb38349d2d10096785f420a64c33625efd8.tar.gz"
   },
   "scripts": {
     "build": "tsc",
