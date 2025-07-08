@@ -8,8 +8,10 @@
   },
   "dependencies": {
     "@wix/ecom": "^1.0.1234",
+    "@wix/members": "^1.0.301",
+    "ts-node": "^10.9.2",
     "@wix/sdk": "^1.15.24",
-    "@wix/stores": "https://cdn.dev.wixpress.com/@wix/stores/57ebf4ed07331fc2327a8fb38349d2d10096785f420a64c33625efd8.tar.gz"
+    "@wix/stores": "https://cdn.dev.wixpress.com/@wix/stores/55e8bdff2747d600fc85afb81c6fcf795683091bcfff4d5fba3d19cd.tar.gz"
   },
   "scripts": {
     "build": "tsc",
